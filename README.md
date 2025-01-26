@@ -39,8 +39,11 @@ I am a passionate **Data Engineer** with over 4 years of experience in building,
 ---
 
 ## 🌟 Projects
-### **[E-Learning Python Projects](https://github.com/drashtithummar/Pyprojects)**
-- Developed Python scripts for educational tools like palindrome checkers and Fibonacci generators.
+### **[AI-Driven-Revenue-Management-System-for-Hospitality-Finance-Optimization](https://github.com/drashtithummar/Pyprojects](https://github.com/drashtithummar/AI-Driven-Revenue-Management-System-for-Hospitality-Finance-Optimization)**
+- System for the hospitality industry. The system uses machine learning and big data technologies to analyze historical booking data, pricing trends, customer preferences, and external factors (like events, holidays, or weather) to recommend optimal pricing strategies and maximize revenue for hotels and resorts.
+
+### **[Investment-Portfolio-Optimization-and-Risk-Analysis-Platform](https://github.com/drashtithummar/Investment-Portfolio-Optimization-and-Risk-Analysis-Platform)**
+- Optimize client investment portfolios based on real-time market data, historical performance, and risk appetite while ensuring compliance with regulations and maximizing returns.
 
 ### **[Web Development Projects](https://github.com/drashtithummar/Web-Development)**
 - Created interactive web pages with HTML, CSS, and JavaScript, including quizzes and responsive designs.
