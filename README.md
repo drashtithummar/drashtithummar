@@ -5,7 +5,7 @@
 📱 **Phone**: +1 (716) 259 6516  
 
 🎓 **Master of Science in Data Science**  
-University at Buffalo, State University of New York (Graduating Dec 2023)
+University at Buffalo, State University of New York (Graduated Dec 2023)
 
 ---
 
