@@ -1,6 +1,6 @@
 # 👩‍💻 Drashti Thummar – Data Engineer
 
-🌎 **Location**: Los Angeles, CA  
+🌎 **Location**: San Francisco, CA  
 📧 **Email**: [drashtithummar07@gmail.com](mailto:drashtithummar07@gmail.com)  
 📱 **Phone**: +1 (716) 259 6516  
 
