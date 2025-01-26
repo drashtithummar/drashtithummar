@@ -70,3 +70,24 @@ I am a passionate **Data Engineer** with over 4 years of experience in building,
 - **LinkedIn**: [Drashti Thummar](https://www.linkedin.com/in/drashti-thummar)
 - **GitHub**: [drashtithummar](https://github.com/drashtithummar)
 
+  ## 🛠️ Languages and Tools
+
+### **Programming Languages**
+![Python](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) ![SQL](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) ![R](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+### **Big Data Ecosystem**
+![Hadoop](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif) ![Apache Spark](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+### **Cloud Platforms**
+![AWS](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) ![Azure](https://media.giphy.com/media/3o7TKP9lnG7GzSxg8U/giphy.gif) ![GCP](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+
+### **ETL Tools**
+![Talend](https://media.giphy.com/media/MFM1mSYnAZJHa/giphy.gif) ![Informatica](https://media.giphy.com/media/5fF7xQnnD78IE4UxhL/giphy.gif)
+
+### **Visualization Tools**
+![Tableau](https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif) ![Power BI](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+### **Other Tools**
+![Git](https://media.giphy.com/media/1AgViHybqi1b7mJsxJ/giphy.gif) ![Docker](https://media.giphy.com/media/xUPGclgjs0vpuqVeUU/giphy.gif) ![Kubernetes](https://media.giphy.com/media/6nuisghY3Shq6i3Syj/giphy.gif)
+
+
