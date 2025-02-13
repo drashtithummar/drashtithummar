@@ -1,4 +1,4 @@
-# 👩‍💻 Drashti Thummar – Data Engineer
+# 👩‍💻 Drashti Thummar – Software Engineer
 
 🌎 **Location**: San Francisco, CA  
 📧 **Email**: [drashtithummar07@gmail.com](mailto:drashtithummar07@gmail.com)  
@@ -22,7 +22,7 @@ I am a passionate **Data Engineer** with over 4 years of experience in building,
 ## 🛠️ Technical Skills
 
 ### **Programming**
-- Python, R, SQL, Scala, Java, Go
+- Java, C#, Python, R, SQL, Scala, Java, Go
 
 ### **Big Data Ecosystem**
 - Hadoop (HDFS, MapReduce), Apache Spark, PySpark, Snowflake
